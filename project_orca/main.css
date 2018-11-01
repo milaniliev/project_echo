@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Coda|Share+Tech+Mono|Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Coda|Share+Tech+Mono|VT323');
 
 html {
   background-color: #fff;
@@ -17,8 +17,7 @@ html.access {
 }
 
 html.access body {
-  font-family: 'Press Start 2P', monospace;
-  font-size: 10px;
+  font-family: 'VT323', monospace;
 }
 
 @keyframes to_foreground {
@@ -47,6 +46,10 @@ h1, h2, h3 {
   font-family: 'Share Tech Mono', cursive;
   text-transform: uppercase;
 }
+
+html.access h1, html.access h2, html.access h3 {
+  font-family: 'VT323', monospace;
+} 
 
 h1 {
   background-color: rgba(255,255,255,0.90);
@@ -113,7 +116,6 @@ button {
   color: #0089ff;
   cursor: pointer;
   text-shadow: 0px 0px 2px #0089ff;
-
 }
 
 button:hover, button:active {
