@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Project Orca</title>
+
+    <link rel="stylesheet" href="main.css"/>
+  </head>
+  <body>
+
+    <form id="login" action="/login" style="display: none" method="POST">
+      
+      <input type="text" name="username" placeholder="Username"/>
+       
+      <input type="password" name="password" placeholder="Password"/>
+
+      <button>Log In</button>
+    </form>
+
+    <img class="background" src="diagrams/4.png"/>
+    <img class="background bottom" src="diagrams/1.jpg"/>
+
+    <h1>Project ORCA <button id="login_button">Log In</button></h1>
+
+    <h2>About</h2>
+
+    <p>
+      The purpose of Project ORCA is to develop a general-purpose Artificial Intelligence to analyze and predict human behavior.
+    </p>
+
+    <h2>History</h2>
+
+    Project ORCA was started in October 1989 at the University of San Fernando's Computational Intelligence Center by Dr. George Packard and Prof. Najeet Shah as the Generalized Predictive Computational Intelligence.
+    <p>
+    The key insight that enabled the development of what would eventually become Project ORCA was that the application of Bayes' Theorem to human behavior is possible given sufficient information.
+
+    Bayes' Theorem states that:
+
+    <div class="equation">
+        <div class="left">P(A|B) = </div> <input type="text" class="right top" value="P(A|B) x P(A)"><div class="right bottom">P(B)</div>
+    </div>
+
+    </p>
+
+    <h2>Technology</h2>
+
+    <div class="technology">
+      <h3>Interval Temporal Logic</h3>
+      <p>
+        The primary characteristic of interval temporal logic is that intervals, rather than points, are taken as the primitive ontological entities. Given their generally bad computational behavior of interval temporal logics, several techniques exist to produce decidable and computationally affordable temporal logics based on intervals. In this paper we take inspiration from Golumbic and Shamir's coarser interval algebras, which generalize the classical Allen's Interval Algebra, in order to define two previously unknown variants of Halpern and Shoham's logic (HS) based on coarser relations. We prove that, perhaps surprisingly, the satisfiability problem for the coarsest of the two variants, namely , not only is decidable, but PSpace-complete in the finite/discrete case, and PSpace-hard in any other case; besides proving its complexity bounds, we implement a tableau-based satisfiability checker for it and test it against a systematically generated benchmark. Our results are strengthened by showing that not all coarser-than-Allen's relations are a guarantee of decidability, as we prove that the second variant, namely , remains undecidable in all interesting cases.
+      </p>
+    </div>
+
+
+    <div class="technology">
+      <h3>Multi-Issue Domains</h3>
+      <p>
+        One approach to voting on several interrelated issues consists in using a language for compact preference representation, from which the voters' preferences are elicited and aggregated. Such a language can usually be seen as a domain restriction. We consider a well-known restriction, namely, conditionally lexicographic preferences, where both the relative importance between issues and the preference between the values of an issue may depend on the values taken by more important issues. The naturally associated language consists in describing conditional importance and conditional preference by trees together with conditional preference tables. In this paper, we study the aggregation of conditionally lexicographic preferences for several common voting rules and several classes of lexicographic preferences. We address the computation of the winning alternative for some important rules, both by identifying the computational complexity of the relevant problems and by showing that for several of them, computing the winner reduces in a very natural way to a maxsat problem.
+      </p>
+    </div>
+
+    <div class="technology">
+      <h3>Memory networks for fine-grained opinion mining</h3>
+      <p>
+        Fine-grained opinion mining has attracted increasing attention recently because of its benefits for providing richer information compared with coarse-grained sentiment analysis. Under this problem, there are several existing works focusing on aspect (or opinion) terms extraction which utilize the syntactic relations among the words given by a dependency parser. These approaches, however, require additional information and highly depend on the quality of the parsing results. As a result, they may perform poorly on user-generated texts, such as product reviews, tweets, etc., whose syntactic structure is not precise. In this work, we offer an end-to-end deep learning model without any preprocessing. The model consists of a memory network that automatically learns the complicated interactions among aspect words and opinion words. Moreover, we extend the network with a multi-task manner to solve a finer-grained opinion mining problem, which is more challenging than the traditional fine-grained opinion mining problem. To be specific, the finer-grained problem involves identification of aspect and opinion terms within each sentence, as well as categorization of the identified terms at the same time. To this end, we develop an end-to-end multi-task memory network, where aspect/opinion terms extraction for a specific category is considered as a task, and all the tasks are learned jointly by exploring commonalities and relationships among them. We demonstrate state-of-the-art performance of our proposed model on several benchmark datasets.
+      </p>
+
+    </div>
+
+    <div class="technology">
+      <h3>Probably Bounded Suboptimal Heuristic Search</h3>
+      <p>
+        Finding an optimal solution to a search problem is often desirable, but can be too difficult in many cases. A common approach in such cases is to try to find a solution whose suboptimality is bounded, where a parameter ϵ defines how far from optimal a solution can be while still being acceptable. A scarcely studied alternative is to try to find a solution that is probably optimal, where a parameter δ defines the confidence required in the solution's optimality. This paper explores this option and introduces the concept of a probably bounded-suboptimal search (pBS search) algorithm. Such a search algorithm accepts two parameters, ϵ and δ, and outputs a solution that with probability at least  costs at most  times the optimal solution. A general algorithmic framework for pBS search algorithms is proposed. Several instances of this framework are described and analyzed theoretically and experimentally on a range of search domains. Results show that pBS search algorithms are often faster than a state-of-the-art bounded-suboptimal search algorithm. This shows in practice that finding solutions that satisfy a given suboptimality bound with high probability can be done faster than finding solutions that satisfy the same suboptimality bound with certainty.
+      </p>
+    </div>
+
+    <script>
+      document.getElementById("login_button").addEventListener("click", () => {
+        document.getElementById("login").style.display = ""
+      })
+
+      document.querySelector(".equation input").addEventListener("input", () => {
+        if(document.querySelector(".equation input").value === 'P(B|A) x P(A)'){
+          setTimeout(() => {
+            document.getElementById("login").style.display = ""
+            document.getElementById("login").querySelector("[name=username]").value = "gpackard"
+            document.getElementById("login").querySelector("[name=password]").value = "fasdagsad"
+
+          }, 500)
+        }
+      })
+    </script>
+  </body>
+</html>
