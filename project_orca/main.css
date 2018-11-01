@@ -137,7 +137,7 @@ input::placeholder {
   font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
   text-shadow: none;
-  font-weight: bold;
+  font-weight: 400;
   font-style: italic;
   grid-column-gap: 1rem;
 }
@@ -147,7 +147,7 @@ input::placeholder {
   font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
   text-shadow: none;
-  font-weight: bold;
+  font-weight: 400;
   font-style: italic; 
   background: transparent;
   border: none;
