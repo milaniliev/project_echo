@@ -76,8 +76,8 @@ Some still do.
 
  --------- Archive Log 09/10/2011 ------------
 stdin > Something's off with Echo. Leiman has still not explained in any >
-detail how it works, or what the breakthrough insight is. Not to everyone, not >
-in one-on-ones. He's rarely among us in the labs anymore - he's spending more >
+detail how it works, or what the breakthrough insight is. Not publicly, not >
+one-on-one. He's rarely among us in the labs anymore - he's spending more >
 and more time upstairs. >
 >
 But that's not the oddest part. Echo seems... moody? I know I'm anthropomorphising >
@@ -100,4 +100,4 @@ a>
 >
 > flush()
 > ext: Error: no such command: ext
-Connection timed out from 10.22.13.136:4500 (3600 seconds)
+Disconnect: Connection timed out from 10.22.13.136:4500 (3600 seconds)

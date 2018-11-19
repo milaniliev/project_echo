@@ -81,8 +81,9 @@ html.access .technology, html.access .information {
   animation-name: to_background;
   animation-duration: 1ms;
   animation-fill-mode: both;
-  position: fixed;
+  position: absolute;
   top: 100px;
+  left: 100px;
 }
 
 html.access .goals {
