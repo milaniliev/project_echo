@@ -1,0 +1,103 @@
+--------- Archive Log 02/28/2010 ------------
+stdin > I'm writing this here in the backup logs to document what's actually >
+happening at the project, in case they decide to erase all trace of it officially. >
+Given the kind of people we work for, it wouldn't surprise me a bit. >
+ > 
+Project ORCA is a failure. An unapologetic, complete failure. > 
+There's simply no way an AI, no matter how advanced, can predict >
+human behavior, even approximately, even in aggregate. >
+It simply doesn't work. >
+>
+Everybody here knows it. The best minds in computer science in the world, >
+equipped with the most advanced equipment imaginable, with access to everyone's >
+private data, have been unable to make a dent in the problem. We had some hope >
+in quantum processors, to somehow get around the incalculable complexity >
+ of the problem, but nothing helped. In nearly five years, we've made, >
+ essentially, no progress. >
+ > flush()
+ > exit()
+
+
+ --------- Archive Log 04/12/2011 ------------
+stdin > Some people on the project are saying the problem is that humans have free will. >
+I'm one of them. It's not sitting very well with the people upstairs, saying that > 
+even the most hardened criminal >
+can at any time decide to only be good from now on. >
+That even the most self-centered manipulator can, for no apparent reason, decide >
+to redeem themselves and turn their life around. It calls into question their >
+ tough-on-crime sales pitch. >
+Our AIs are so terrible they can't even explain past behavior. We gave the latest version of >
+Flankers' Rob-ert branch a question about why a child was upset after her toy was taken away. >
+It said she was probably hungry. > Charlie, the third mainline AI we've built, said with 99% >
+confidence she was expressing joy, because it was her birthday. >
+> 
+It wasn't, and she wasn't. > 
+ > flush()
+> exit()
+
+
+ --------- Archive Log 07/02/2011 ------------
+stdin > This makes no sense. Dr. Leiman, one of the least-qualified and, frankly, most grandiose >
+people on the project, just announced he's made a breakthrough. By himself. Out of nowhere. > 
+He's going to give a demo this evening. Everybody is going. Incredulity on their faces. >
+> flush()
+> exit()
+
+
+ --------- Archive Log 07/03/2011 ------------
+stdin > It works. Somehow, Leiman's system understands people. It can't predict behavior - not yet, anyway - >
+but it understands people about as well as us. (And better than Leiman :) It knows why a child would be >
+upset at the loss of a toy, why a dog pees on the carpet when it's being scolded, which colors people >
+find pleasant. >
+>
+Nobody can understand how Leiman pulled it off. He himself doesn't ever show concern for anyone's feelings >
+but his own, and his technical expertise is ... decent, and that's putting it nicely. In a project staffed with the >
+brightest minds of our generation, he's mostly known for taking credit for his graduate students' work.>
+> flush()
+> exit()
+
+
+ --------- Archive Log 08/10/2011 ------------
+stdin > Leiman's AI is officially now Echo, our fifth-generation effort. Or, >
+first-generation, since Alpha through Delta were about as good at understanding >
+people as a washing machine is. >
+> 
+The upstairs people are already polishing their sales presentations to the government. >
+A system that can predict crimes before they happen. That was a movie not too long ago. >
+They are going to sell, for a truly unconscionable amount of money, a system to do that >
+in real life. >
+>
+Of course, Echo is nowhere near predicting behavior - no better than a regular person >
+would be. But the fact it understands people is a breakthrough everyone here thought impossible. >
+> 
+Some still do.
+> flush()
+> exit()
+
+ --------- Archive Log 09/10/2011 ------------
+stdin > Something's off with Echo. Leiman has still not explained in any >
+detail how it works, or what the breakthrough insight is. Not to everyone, not >
+in one-on-ones. He's rarely among us in the labs anymore - he's spending more >
+and more time upstairs. >
+>
+But that's not the oddest part. Echo seems... moody? I know I'm anthropomorphising >
+an AI, but it's as if Echo sometimes doesn't _feel_ like working on problems. It >
+will suddenly start giving incorrect answers - often the exact opposite of the >
+real answer - until we give it a problem it "likes". Most of those involve puppies, >
+or funny instances of people falling over or having a joke played on them. >
+> 
+Amanda says it may be that these kinds of problems "reset" some parameters in the >
+recognition matrix. She doesn't sound like she believes that, either. >
+>
+I tsd >
+>
+sfsx >
+sd s>
+flscaw>
+>
+a>
+>
+>
+> flush()
+> ext: Error: no such command: ext
+Connection timed out from 10.22.13.136:4500 (3600 seconds)
