@@ -1,0 +1,12 @@
+version = 1.0.1
+
+rule docker_build
+  command = docker build -t project_orca .
+
+rule docker_publish
+  command = bash -c "docker tag project_orca milaniliev/project_orca:$version && docker push milaniliev/project_orca:$version"
+
+build package: docker_build
+build publish: docker_publish
+
+default package
