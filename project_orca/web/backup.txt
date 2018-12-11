@@ -101,7 +101,18 @@ like puppies, horses, and funny videos of people falling over or having a >
 prank played on them. >
 > 
 Amanda says it might be that these kinds of problems "reset" some parameters in the >
-recognition matrix. She doesn't sound like she believes it. I don;tttttttd >
+recognition matrix. She doesn't sound like she believes it. I don't either. >
+>
+Mandy, if you happen to read this, I've put all the data I've collected on Echo's >
+behavior in the old OrientDB database. You know the one, we used it in our college days >
+to practice. >
+The username is 'mandy' and the password is the month and year this whole stupid > 
+project started, back with George and Najeet. >
+>
+Wasd>
+The building just switched to emergency lighting. Back-up power only. What's going on? >
+Did they just shut us down without notice? Since Echo, I swoudldsad >
+
 >
 sfsx >
 sd s>
@@ -112,4 +123,4 @@ a>
 > fli
 > flush()
 > ext: Error: no such command: ext
-Disconnect: Connection timed out from 10.22.13.136:4500 (3600 seconds)
+Disconnect: Connection timed out from 127.0.0.1:22 (3600 seconds)

@@ -1,4 +1,4 @@
-version = 1.0.1
+version = 1.0.2
 
 rule docker_build
   command = docker build -t project_orca .
